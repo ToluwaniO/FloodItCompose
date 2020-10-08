@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FloodItCompose</string>
+    <string name="you_won">You won!</string>
+    <string name="you_lost">You lost :(</string>
+    <string name="start_new_game">Start new game</string>
+    <string name="steps_count">%1d / %2d steps</string>
+    <string name="steps">steps</string>
+    <string name="best">best</string>
+</resources>
